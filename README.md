@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latidos-de-amor-sagrado/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Latidos de amor sagrado](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-de-amor-sagrado/) |
+| **Get License** | [License this song: Latidos de amor sagrado](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-de-amor-sagrado/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/4009)
 
 ---
 
