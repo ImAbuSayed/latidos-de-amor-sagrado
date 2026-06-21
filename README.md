@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latidos-de-amor-sagrado/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Latidos de amor sagrado](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-de-amor-sagrado/) |
+| **Get License** | [License this song: Latidos de amor sagrado](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-de-amor-sagrado/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime si esta noche tú te escapas a mi lado
+> Este deseo intenso me tiene descontrolado
+> Tus labios rojos son el fuego que yo más anhelo
+> Latidos de amor sagrado, nos vamos hasta el cielo
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
