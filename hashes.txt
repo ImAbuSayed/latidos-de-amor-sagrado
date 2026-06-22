@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Latidos 
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-22T05:57:07.542266 | `v1` | `8db48bb5bdb25af7a0a9b2c187b7888d52cd86c7247d39eb1067650768463141` | `aefb2cedf570b7a1662e8fb01b3c75e60ec5660a3beb9a7fb061687ab7fdc80d` | `2026-06-22_latidos-de-amor-sagrado-v1.txt` |
+| 2026-06-22T06:52:55.310863 | `v2` | `13f88055736bf581597ffc1125aa6cd930d4712721b85178fe6a1007400895e5` | `0cce24f56b807c687451ec0a95d1c1ada5ae2a54553876b8ead49f4c209eb6c1` | `2026-06-22_latidos-de-amor-sagrado-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*
